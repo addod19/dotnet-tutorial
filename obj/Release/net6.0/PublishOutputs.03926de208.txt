@@ -1,0 +1,5 @@
+/home/addo/Desktop/projects/hello/bin/Release/net6.0/publish/hello
+/home/addo/Desktop/projects/hello/bin/Release/net6.0/publish/hello.dll
+/home/addo/Desktop/projects/hello/bin/Release/net6.0/publish/hello.deps.json
+/home/addo/Desktop/projects/hello/bin/Release/net6.0/publish/hello.runtimeconfig.json
+/home/addo/Desktop/projects/hello/bin/Release/net6.0/publish/hello.pdb
